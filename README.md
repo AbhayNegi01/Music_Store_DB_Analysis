@@ -1,6 +1,6 @@
 # 🎵 Music_Store_DB_Analysis
 
-A SQL-based analysis project using the Chinook dataset to explore music sales, genres, and customer trends.
+This project leverages SQL to analyze an online music store dataset, uncovering insights about sales, customers, artists, and genres. The analysis aims to answer key business questions and provide actionable insights to drive growth and optimize decision-making.
 
 ## 📂 Files
 - `Music Store DB.sql` → Database schema
@@ -24,10 +24,9 @@ A SQL-based analysis project using the Chinook dataset to explore music sales, g
 - **Tool:** MySQL Workbench
 
 
-### Badges
-- Adding badges makes it look polished:
+## Badges
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=40&style=for-the-badge)
 
 
 ## 📊 Results & Key Insights
