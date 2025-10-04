@@ -23,14 +23,11 @@ A SQL-based analysis project using the Chinook dataset to explore music sales, g
 - **Database:** MySQL  
 - **Tool:** MySQL Workbench
 
----
 
-### 4️⃣ Optional: Badges
+### Badges
 - Adding badges makes it look polished:
 
-```md
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![YouTube](https://img.shields.io/badge/Tutorial-YouTube-red?logo=youtube)
 
 
 ## 📊 Results & Key Insights
